@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+plotly
+numpy
+sentence-transformers
+umap-learn
+scikit-learn
+anthropic
