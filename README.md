@@ -1,6 +1,6 @@
 # Book Visualisation
 
-Based on the following [discussion thread on X:]('https://x.com/renegadesilicon/status/1857767141375881257')
+Based on the following [discussion thread on X:](https://x.com/renegadesilicon/status/1857767141375881257)
 
 Creates an interactive 3D visualisation of book relationships using UMAP dimensionality reduction and sentence embeddings. By default, it visualises books from Mark Saroufim's bookshelf.
 
